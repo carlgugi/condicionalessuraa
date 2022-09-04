@@ -1,2 +1,6 @@
-# condicionalessuraa
-estructuras de control con python 
+# Carlos Mario Gutierrez Gil
+## SURA FORMACION 
+###### PYTHON 
+Proyecto de condicionales en python
+***
+- Condicional If
